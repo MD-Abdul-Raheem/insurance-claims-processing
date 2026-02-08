@@ -1,0 +1,11 @@
+# Optional dependencies for PDF support
+# Install with: pip install -r requirements.txt
+
+# PDF text extraction (choose one)
+PyPDF2>=3.0.0
+# OR
+# pdfplumber>=0.10.0
+
+# For future enhancements
+# pytest>=7.0.0  # For unit testing
+# python-dotenv>=1.0.0  # For configuration management

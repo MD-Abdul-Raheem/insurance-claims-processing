@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL-2024-007890
+Policyholder Name: Emily Davis
+Effective Dates: 01/15/2024 to 01/14/2025
+
+Incident Date: 03/22/2024
+Time: 9:15 AM
+Location: 321 Park Drive, Boston, MA
+
+Incident Description:
+Multi-vehicle accident on highway. The insured vehicle was involved in a three-car collision during morning rush hour. Driver sustained whiplash and passenger suffered broken arm.
+
+Claimant: Emily Davis
+Contact: (555) 456-7890, emily.davis@email.com
+Third Party: Robert Wilson (555) 678-9012, Lisa Chen (555) 789-0123
+
+Asset Type: Vehicle
+Asset ID: VIN-GHI789RST345
+Estimated Damage: $18,000.00
+
+Claim Type: Bodily Injury
+Attachments: accident_photos.zip, medical_records.pdf, police_report.pdf
+Initial Estimate: $18,000.00

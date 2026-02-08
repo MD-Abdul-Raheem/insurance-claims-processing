@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL-2024-009999
+Policyholder Name: Michael Brown
+Effective Dates: 02/01/2024 to 01/31/2025
+
+Incident Date: 03/18/2024
+Time: 11:45 PM
+Location: Remote parking lot, 789 Industrial Blvd, Detroit, MI
+
+Incident Description:
+Vehicle fire in empty parking lot. The circumstances appear inconsistent with the policyholder's statement. No witnesses present. Vehicle was reported stolen earlier but found at scene.
+
+Claimant: Michael Brown
+Contact: (555) 345-6789
+Third Party: None
+
+Asset Type: Vehicle
+Asset ID: VIN-DEF456UVW012
+Estimated Damage: $35,000.00
+
+Claim Type: Total Loss
+Attachments: fire_dept_report.pdf
+Initial Estimate: $35,000.00

@@ -1,0 +1,24 @@
+First Notice of Loss (FNOL)
+
+Policy Number: POL-2024-001234
+Policyholder Name: John Smith
+Effective Dates: 01/01/2024 to 12/31/2024
+
+Incident Date: 03/15/2024
+Time: 2:30 PM
+Location: 123 Main Street, Springfield, IL
+
+Incident Description:
+Vehicle collision at intersection. The insured vehicle was stopped at a red light when it was rear-ended by another vehicle. Minor damage to rear bumper and trunk.
+
+Claimant: John Smith
+Contact: (555) 123-4567, john.smith@email.com
+Third Party: Jane Doe, (555) 987-6543
+
+Asset Type: Vehicle
+Asset ID: VIN-ABC123XYZ789
+Estimated Damage: $8,500.00
+
+Claim Type: Property Damage
+Attachments: photos_001.jpg, police_report.pdf
+Initial Estimate: $8,500.00
